@@ -10,13 +10,14 @@
 
 - [Usage](#usage)
 
-- [Contributing](#contributing)
+- [Contributing ](#contributing)
 
 - [Contributors](#contributors)
 
 - [Troubleshooting](#troubleshooting)
 
 ## Installation
+This is a test for verifying GPG-signed commits.
 
 ### With Docker
 
